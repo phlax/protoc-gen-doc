@@ -6,6 +6,7 @@ proto_library(
     name = "com_example_proto",
     srcs = [
         "Booking.proto",
+        "Cookie.proto",
         "Vehicle.proto",
     ],
     visibility = ["//visibility:public"],
